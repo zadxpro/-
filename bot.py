@@ -8,7 +8,7 @@ import time
 from flask import Flask
 
 # ===================== ТАНЗИМОТ =====================
-BOT_TOKEN   = os.environ.get("BOT_TOKEN", "8710051156:AAGsowg5DhvLjI7xyrgWoD0O74cCEGrTeik")
+BOT_TOKEN   = os.environ.get("BOT_TOKEN", "8710051156:AAHNq8PwxvfgZmTQqXyJk2IcqXftapKFNGM")
 FF_API_URL  = "https://info-ob49.onrender.com/api/account/"
 BAN_API_URL = "https://bancheck-xprince.onrender.com/checkban"
 FF_REGIONS  = ["IND","BD","SG","ID","VN","TH","ME","TW","BR","RU","PK","CIS","US"]
